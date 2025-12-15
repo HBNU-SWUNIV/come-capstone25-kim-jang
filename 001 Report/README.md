@@ -10,4 +10,6 @@
  - 중간 보고서
    [김앤장_캡스톤디자인Ⅱ 중간보고서.pdf](https://github.com/user-attachments/files/23182466/_.pdf)
  - 기말 보고서
+   [김앤장_캡스톤디자인II 최종보고서.pdf](https://github.com/user-attachments/files/24168149/_.II.pdf)
  - 정보기술대학 작품전시 내지
+   [【김앤장】정보기술대학 작품전시회 참가 신청서.pdf](https://github.com/user-attachments/files/24168166/default.pdf)
