@@ -1,11 +1,19 @@
 # 보고서
 ## 캡스톤 디자인 I 
+ - 계획 보고서
+   [김앤장_캡스톤디자인1_계획서.pdf](https://github.com/user-attachments/files/24184005/_.1_.pdf)
  - 중간 보고서
+   [김앤장_캡스톤디자인1_중간보고서.pdf](https://github.com/user-attachments/files/23182432/_.1_.pdf)
  - 기말 보고서
- - 참고) 별도의 폴더를 생성하여 관리 가능함
+   [김앤장_캡스톤디자인1_최종보고서.pdf](https://github.com/user-attachments/files/23182438/_.1_.pdf)
 
-## 캡스톤 디자인 I
+
+## 캡스톤 디자인 II
+ - 계획 보고서
+   [김앤장_캡스톤디자인II 계획서.pdf](https://github.com/user-attachments/files/24184050/_.II.pdf)
  - 중간 보고서
+   [김앤장_캡스톤디자인Ⅱ 중간보고서.pdf](https://github.com/user-attachments/files/23182466/_.pdf)
  - 기말 보고서
+   [김앤장_캡스톤디자인II 최종보고서.pdf](https://github.com/user-attachments/files/24168149/_.II.pdf)
  - 정보기술대학 작품전시 내지
- - 참고) 별도의 폴더를 생성하여 관리 가능함
+   [【김앤장】정보기술대학 작품전시회 참가 신청서.pdf](https://github.com/user-attachments/files/24168166/default.pdf)
