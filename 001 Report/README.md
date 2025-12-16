@@ -1,5 +1,7 @@
 # 보고서
 ## 캡스톤 디자인 I 
+ - 계획 보고서
+   [김앤장_캡스톤디자인1_계획서.pdf](https://github.com/user-attachments/files/24184005/_.1_.pdf)
  - 중간 보고서
    [김앤장_캡스톤디자인1_중간보고서.pdf](https://github.com/user-attachments/files/23182432/_.1_.pdf)
  - 기말 보고서
@@ -7,6 +9,8 @@
 
 
 ## 캡스톤 디자인 II
+ - 계획 보고서
+   [김앤장_캡스톤디자인II 계획서.pdf](https://github.com/user-attachments/files/24184050/_.II.pdf)
  - 중간 보고서
    [김앤장_캡스톤디자인Ⅱ 중간보고서.pdf](https://github.com/user-attachments/files/23182466/_.pdf)
  - 기말 보고서
